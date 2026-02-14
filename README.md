@@ -1,8 +1,8 @@
-#  SkillXchange – SRM AP Student Skill Exchange Platform
+#  SkillXChange – SRM AP Student Skill Exchange Platform
 
 ##  About the Project
 
-SkillSwap is a full-stack web platform built for SRM AP students to exchange skills instead of money.
+SkillXChange is a full-stack web platform built for SRM AP students to exchange skills instead of money.
 It helps students connect with peers who can teach what they want to learn, creating a collaborative campus learning ecosystem.
 
 ---
