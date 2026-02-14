@@ -36,7 +36,7 @@ export default function Auth() {
     if (error) {
       toast.error(error);
     } else {
-      toast.success("Check your SRM AP email to verify your account!");
+      toast.success("Account Verified,Now login! ");
     }
     setLoading(false);
   };
