@@ -44,7 +44,7 @@ We are a team of **4 developers** working on this project as part of a universit
 
 ```bash
 git clone https://github.com/your-username/skillxchange.git
-cd skillswap
+cd skillxchange
 ```
 
 ### 2. Install dependencies
