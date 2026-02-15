@@ -87,6 +87,6 @@ npm run dev
 
 ---
 
-##  Note
+##  Note:
 
 This project is currently under active development for a hackathon submission.
